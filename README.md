@@ -1,7 +1,7 @@
 [en]
 This project includes Angular Tech. and especially coding via TypeScript.
 [tr]
-Bu proje Angular Teknolojisi içermekte ve özlelikle TypeScript ile kodlanmaktadır.
+Bu proje Angular Teknolojisi içermekte ve özellikle TypeScript ile kodlanmaktadır.
 
 # Northwind
 
