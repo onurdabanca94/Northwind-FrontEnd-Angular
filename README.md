@@ -1,3 +1,8 @@
+[en]
+This project includes Angular Tech. and especially coding via TypeScript.
+[tr]
+Bu proje Angular Teknolojisi içermekte ve özellikle TypeScript ile kodlanmaktadır.
+
 # Northwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
